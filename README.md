@@ -27,6 +27,6 @@
     <li>PyQt5</li>
     <li>paho-mqtt</li>
 </ul>
-![image](https://github.com/user-attachments/assets/98e68e95-8fa0-4461-9ec0-62543c894216)
+<p><img src="https://github.com/user-attachments/assets/98e68e95-8fa0-4461-9ec0-62543c894216" alt="Screenshot" style="max-width:100%; height:auto;"></p>
 
 <p>Feel free to explore and contribute to the project! If you find any issues or have suggestions, please open an issue or submit a pull request.</p>
