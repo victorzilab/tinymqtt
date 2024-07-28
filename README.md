@@ -11,9 +11,6 @@
     <li><strong>Configuration Management:</strong> Save and load MQTT settings from a JSON file.</li>
 </ul>
 
-<h2>Known Issues</h2>
-<p><strong>Disconnect Issue:</strong> After disconnecting, the application requires a restart to reconnect. If you identify the cause, please contribute a fix through a pull request.</p>
-
 <h2>Future Implementations</h2>
 <ul>
     <li>Configurable topics and text for buttons</li>
